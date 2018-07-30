@@ -1,0 +1,23 @@
+{
+  "name": "npm-shared-styles",
+  "version": "0.0.1",
+  "description": "This is a package with base style components that can be used for a react and react-native project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MarvinVk/npm-shared-styles.git"
+  },
+  "keywords": [
+    "npm",
+    "shared-styles"
+  ],
+  "author": "Marvin van Kalsbeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvinVk/npm-shared-styles/issues"
+  },
+  "homepage": "https://github.com/MarvinVk/npm-shared-styles#readme"
+}
