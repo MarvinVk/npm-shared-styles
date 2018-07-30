@@ -1,0 +1,15 @@
+# File system
+.DS_Store
+
+# Editors
+/.idea
+/.vscode
+
+# Package managers
+/node_modules
+npm-debug.log
+package-lock.json
+
+# Rendered content
+*.css.map
+*.js.map
